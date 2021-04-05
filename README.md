@@ -19,6 +19,6 @@ Some python libraries
 ```
 ---
 
-### Certification
+### Certificatio
 ![](img/TopLearnerCertificate.png)
 
